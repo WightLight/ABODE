@@ -60,3 +60,6 @@ crashlytics-build.properties
 
 # VSCode
 .vscode/
+
+# Project version - Constantly in-flux and isn't important for our needs
+/ProjectSettings/ProjectVersion.txt
