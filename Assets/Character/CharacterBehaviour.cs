@@ -1,25 +1,24 @@
 ﻿namespace Abode.Unity
 {
   using UnityEngine;
-  using TMPro;
 
   public class CharacterBehaviour : MonoBehaviour
   {
     private Character character;
-    private TMP_Text nameField;
-    private TMP_Text hpField;
+    private TextField nameField;
+    private TextField hpField;
 
     void Awake()
     {
       character = new Character("Sizzle Lizard", 12);
-      nameField = transform.FindDeep("Title Text").GetComponent<TMP_Text>();
-      hpField = transform.FindDeep("HP Text").GetComponent<TMP_Text>();
+      nameField = transform.FindDeep("Title Text").GetComponent<TextField>();
+      hpField = transform.FindDeep("HP Text").GetComponent<TextField>();
     }
 
     void Update()
     {
-      nameField.text = character.Name;
-      hpField.text = character.HP.ToString();
+      nameField.text = character.Name.ToUpper();
+      hpField.text = character.HP.ToString() + " HP";
     }
   }
 
