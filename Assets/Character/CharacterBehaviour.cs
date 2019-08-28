@@ -12,7 +12,7 @@
     void Awake()
     {
       character = new Character("Sizzle Lizard", 12);
-      nameField = transform.FindDeep("Name Text").GetComponent<TMP_Text>();
+      nameField = transform.FindDeep("Title Text").GetComponent<TMP_Text>();
       hpField = transform.FindDeep("HP Text").GetComponent<TMP_Text>();
     }
 
