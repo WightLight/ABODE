@@ -1,5 +1,7 @@
 ﻿namespace Abode
 {
+  using System.Collections.Generic;
+
   public class Player
   {
     private int ap;
@@ -13,9 +15,16 @@
       ap = 10;
     }
 
-    public void Greet()
+    public void ConsumeAp(int amount)
     {
-      ap -= 2;
+      ap -= amount;
+    }
+
+    public List<ShootAction> Actions(Character character)
+    {
+      return new List<ShootAction> {
+        new ShootAction(this, character)
+      };
     }
   }
 }
