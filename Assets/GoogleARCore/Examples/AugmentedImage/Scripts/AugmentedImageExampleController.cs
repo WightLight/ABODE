@@ -112,7 +112,7 @@ namespace GoogleARCore.Examples.AugmentedImage
                 }
             }
 
-            // Show the fit-to-scan overlay if there are no images that are Tracking.
+            // Show the fit-to-scan overlay if thereZ are no images that are Tracking.
             foreach (var visualizer in m_Visualizers.Values)
             {
                 if (visualizer.Image.TrackingState == TrackingState.Tracking)
