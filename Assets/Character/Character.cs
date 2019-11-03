@@ -19,5 +19,10 @@
       this.name = name;
       this.hp = hp;
     }
+
+    public void Damage(int damage)
+    {
+      this.hp -= damage;
+    }
   }
 }
