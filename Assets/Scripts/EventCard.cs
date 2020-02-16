@@ -37,25 +37,25 @@ public class EventCard : MonoBehaviour
 			character.gameObject.SetActive(true);
 			textPanel.gameObject.SetActive(true);
 
-			cardText.text = "Magpie: Hey there. You're <#ff9966>Bailey</color>, right?";
+			cardText.text = "Magpie: Hey, what's up? My name's <#ff9966>Magpie</color>, and I'm a big huge goofass.";
 			dialogueID = 1;
 			return;
 		}
 		if(dialogueID == 1)
 		{
-			cardText.text = "Magpie: Sorry that goofus <#ff9966>Brendan</color> took a while to reply...";
+			cardText.text = "Magpie: I provide my ranger skills as a member of the <#ff9966>Corporium Regiment</color>...";
 			dialogueID = 2;
 			return;
 		}
 		if(dialogueID == 2)
 		{
-			cardText.text = "Magpie: He's been up to his ears in projects like this one!";
+			cardText.text = "Magpie: But most of my time is spent being a major pain in <#ff9966>Barnaby's ass</color>.";
 			dialogueID = 3;
 			return;
 		}
 		if(dialogueID == 3)
 		{
-			cardText.text = "Magpie: Guy's gotta learn to take a break and socialize once in a while.";
+			cardText.text = "Magpie: The truth is he's one of my bestest friends and I'm just scared of my own emotions.";
 			dialogueID = 4;
 			return;
 		}
@@ -63,6 +63,7 @@ public class EventCard : MonoBehaviour
 		{
 			character.gameObject.SetActive(false);
 			textPanel.gameObject.SetActive(false);
+			dialogueID = 0;
 
 			cardText.text = "";
 			return;

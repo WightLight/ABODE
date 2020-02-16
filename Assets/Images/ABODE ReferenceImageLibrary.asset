@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ABODE ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5423094482688864641
+  m_GuidHigh: 14961259652340417189
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5545694068255937318
+      m_GuidHigh: 7125704391884789677
+    m_SerializedTextureGuid:
+      m_GuidLow: 7621309181381073420
+      m_GuidHigh: 7419358390374567480
+    m_Size: {x: 0.6, y: 0.84000003}
+    m_SpecifySize: 1
+    m_Name: Murder in Leilef Wood
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4775101862193351915
+      m_GuidHigh: 1827107045027572406
+    m_SerializedTextureGuid:
+      m_GuidLow: 8346403462376168329
+      m_GuidHigh: 7500021982344103211
+    m_Size: {x: 0.6, y: 0.84000003}
+    m_SpecifySize: 1
+    m_Name: Barnaby's Hip Flask
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4846579522990113282
+      m_GuidHigh: 7885209961292940970
+    m_SerializedTextureGuid:
+      m_GuidLow: 15651231996700518101
+      m_GuidHigh: 5044368747193266441
+    m_Size: {x: 0.6, y: 0.84000003}
+    m_SpecifySize: 1
+    m_Name: Sizzle Lizard
+    m_Texture: {fileID: 0}
