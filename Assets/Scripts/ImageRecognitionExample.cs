@@ -32,7 +32,8 @@ public class ImageRecognitionExample : MonoBehaviour
         {
             if(trackedImage.referenceImage.name == "Murder in Leilef Wood")
             {
-                Instantiate(eventCardObject, trackedImage.transform);
+                //Instantiate(eventCardObject, trackedImage.transform);
+                Instantiate(characterCardObject, trackedImage.transform);
             }
             else if(trackedImage.referenceImage.name == "Sizzle Lizard")
             {
