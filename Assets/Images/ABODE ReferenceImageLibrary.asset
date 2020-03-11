@@ -45,3 +45,23 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: Sizzle Lizard
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5101588123902748227
+      m_GuidHigh: 16787795676658156213
+    m_SerializedTextureGuid:
+      m_GuidLow: 16308751429510976511
+      m_GuidHigh: 11376576030728274363
+    m_Size: {x: 0.625, y: 0.625}
+    m_SpecifySize: 1
+    m_Name: Curve Tile
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5229561492290117231
+      m_GuidHigh: 5081587123224128918
+    m_SerializedTextureGuid:
+      m_GuidLow: 1681134875564315142
+      m_GuidHigh: 4500858697937527624
+    m_Size: {x: 0.625, y: 0.625}
+    m_SpecifySize: 1
+    m_Name: Fork Tile
+    m_Texture: {fileID: 0}
