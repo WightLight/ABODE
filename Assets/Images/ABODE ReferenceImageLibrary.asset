@@ -49,8 +49,8 @@ MonoBehaviour:
       m_GuidLow: 5101588123902748227
       m_GuidHigh: 16787795676658156213
     m_SerializedTextureGuid:
-      m_GuidLow: 16308751429510976511
-      m_GuidHigh: 11376576030728274363
+      m_GuidLow: 18177877879122172189
+      m_GuidHigh: 16400369518991106841
     m_Size: {x: 0.625, y: 0.625}
     m_SpecifySize: 1
     m_Name: Curve Tile
@@ -59,8 +59,8 @@ MonoBehaviour:
       m_GuidLow: 5229561492290117231
       m_GuidHigh: 5081587123224128918
     m_SerializedTextureGuid:
-      m_GuidLow: 1681134875564315142
-      m_GuidHigh: 4500858697937527624
+      m_GuidLow: 8229295948915709623
+      m_GuidHigh: 8784194147113566490
     m_Size: {x: 0.625, y: 0.625}
     m_SpecifySize: 1
     m_Name: Fork Tile

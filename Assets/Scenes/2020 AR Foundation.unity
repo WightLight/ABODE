@@ -671,9 +671,9 @@ MonoBehaviour:
     type: 3}
   eventCardObject: {fileID: 6450174104760894187, guid: 943db87c7ae23fa4da80ebeabe8a3ebf,
     type: 3}
-  curveTile: {fileID: 1717968789103712895, guid: c0646033034386448ac67dfaf6ace922,
+  curveTile: {fileID: 4522724990306356180, guid: 4205a8040323cc54f84c2be7bfd2322d,
     type: 3}
-  forkTile: {fileID: 8290107721207124435, guid: 6dd52742c40a9ee418fadfefabc9808c,
+  forkTile: {fileID: 4522724990306356180, guid: 404f4f1f5216bf24082238db5649004b,
     type: 3}
 --- !u!224 &1447047462 stripped
 RectTransform:
@@ -695,6 +695,7 @@ GameObject:
   - component: {fileID: 1691716466}
   - component: {fileID: 1691716465}
   - component: {fileID: 1691716464}
+  - component: {fileID: 1691716469}
   m_Layer: 0
   m_Name: AR Camera
   m_TagString: MainCamera
@@ -815,6 +816,22 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1691716462}
   m_Enabled: 1
+--- !u!114 &1691716469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1691716462}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56666c5a40171f54783dd416a44f42bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EventMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_MaxRayIntersections: 0
 --- !u!1001 &2082678391299407176
 PrefabInstance:
   m_ObjectHideFlags: 0

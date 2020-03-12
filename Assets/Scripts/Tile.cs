@@ -6,6 +6,7 @@ using TMPro;
 public class Tile : MonoBehaviour
 {
 	public bool isStartTile;
+	public bool isBuilt = false;
 	public int mapX;
 	public int mapY;
 	public bool exitsNorth;
@@ -28,14 +29,16 @@ public class Tile : MonoBehaviour
 	{
 		// Wow what a bad way to find player mini pls fix.
 		playerMini = FindObjectOfType<Mini>();
-		if(isStartTile == true)
+		if (isStartTile == true)
 		{
+			isBuilt = true;
 			mapX = 0;
 			mapY = 0;
 			playerMini.gameObject.SetActive(true);
 			MoveMiniHere(playerMini);
+			ShowBuildableSpaces();
 		}
-		ShowBuildableSpaces();
+		else CloseBuildMode();
 	}
 
 	// Set mini's position to the tapped tile.
@@ -72,15 +75,20 @@ public class Tile : MonoBehaviour
 	}
 	public void CloseBuildMode()
 	{
-		// SetActive(false) all this tile's directional exit buttons.
+		northButton.SetActive(false);
+		eastButton.SetActive(false);
+		southButton.SetActive(false);
+		westButton.SetActive(false);
 		// Erase any "Place New Tile" text.
 	}
 
-	public void PlaceTile()
+	public void BuildSelf(Tile fromTile, string direction)
 	{
 		// Set newly-built tile's mapX and mapY based on the tile it was built from.
+		// Adjust exit bools based on rotation of self vs. rotation of start tile.
 		// Set newly-built tile's exits to surrounding tiles.
 		// Set surrounding tiles' exits that lead here to this tile.
-
+		// Move this tile directly adjacent to its neighbors.
+		// Make this tile a child of the Map.
 	}
 }

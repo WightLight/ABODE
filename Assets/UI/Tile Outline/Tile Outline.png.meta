@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 5868584ea074d5d46a2da9d4e929ecd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -245328359653997601
+    second: Tile Outline_0
+  - first:
+      213: -8546209693098744469
+    second: Tile Outline_1
+  - first:
+      213: 1500639668136568147
+    second: Tile Outline_2
+  - first:
+      213: 501541247377237312
+    second: Tile Outline_3
+  - first:
+      213: 7589303033101556873
+    second: Tile Outline_4
+  - first:
+      213: 3861663770623796960
+    second: Tile Outline_5
+  - first:
+      213: 4115609772542167350
+    second: Tile Outline_6
+  - first:
+      213: 5020987210985100453
+    second: Tile Outline_7
+  - first:
+      213: -3669132009441951078
+    second: Tile Outline_8
+  - first:
+      213: -4109953222724108588
+    second: Tile Outline_9
+  - first:
+      213: -4405363470081072961
+    second: Tile Outline_10
+  - first:
+      213: -6546865019367648763
+    second: Tile Outline_11
+  - first:
+      213: -8016569408423185493
+    second: Tile Outline_12
+  - first:
+      213: -7685874301155004977
+    second: Tile Outline_13
+  - first:
+      213: -6091369274289611751
+    second: Tile Outline_14
+  - first:
+      213: -2952576487341099375
+    second: Tile Outline_15
+  - first:
+      213: -8926321789472805824
+    second: Tile Outline_16
+  - first:
+      213: 104587373605834138
+    second: Tile Outline_17
+  - first:
+      213: 3460616536230232338
+    second: Tile Outline_18
+  - first:
+      213: -372693689437821587
+    second: Tile Outline_19
+  - first:
+      213: -4296989873746719606
+    second: Tile Outline_20
+  - first:
+      213: 3987053910047826989
+    second: Tile Outline_21
+  - first:
+      213: -3071721672569601432
+    second: Tile Outline_22
+  - first:
+      213: -2137155445410389005
+    second: Tile Outline_23
+  - first:
+      213: -4772015472566733615
+    second: Tile Outline_24
+  - first:
+      213: -4092432657967012859
+    second: Tile Outline_25
+  - first:
+      213: -4438278980523335107
+    second: Tile Outline_26
+  - first:
+      213: 3592235240991745562
+    second: Tile Outline_27
+  - first:
+      213: 3191382976169901353
+    second: Tile Outline_28
+  - first:
+      213: -2469335111099864823
+    second: Tile Outline_29
+  - first:
+      213: 7856367734902763894
+    second: Tile Outline_30
+  - first:
+      213: -8120500646790337341
+    second: Tile Outline_31
+  - first:
+      213: -3869510113844921266
+    second: Tile Outline_32
+  - first:
+      213: 1803886929341829323
+    second: Tile Outline_33
+  - first:
+      213: -4294478797179717577
+    second: Tile Outline_34
+  - first:
+      213: -2717586581797407453
+    second: Tile Outline_35
+  - first:
+      213: -7059405804705669927
+    second: Tile Outline_36
+  - first:
+      213: -3653025685429806689
+    second: Tile Outline_0
+  - first:
+      213: 7373561754872733650
+    second: Tile Outline_1
+  - first:
+      213: 3270622430604684930
+    second: Tile Outline_2
+  - first:
+      213: -8699642020696180821
+    second: Tile Outline_3
+  - first:
+      213: -6157681619581741942
+    second: Tile Outline_4
+  - first:
+      213: -2902490108272531443
+    second: Tile Outline_5
+  - first:
+      213: -1140227687235541305
+    second: Tile Outline_6
+  - first:
+      213: -538796507098577510
+    second: Tile Outline_7
+  - first:
+      213: 5446861352053809542
+    second: Tile Outline_8
+  - first:
+      213: -6586426046048787547
+    second: Tile Outline_9
+  - first:
+      213: -4858176903967859949
+    second: Tile Outline_10
+  - first:
+      213: -1429971142154089858
+    second: Tile Outline_11
+  - first:
+      213: -5432906632736096357
+    second: Tile Outline_12
+  - first:
+      213: 3872893011774106042
+    second: Tile Outline_13
+  - first:
+      213: 7354788451272677374
+    second: Tile Outline_14
+  - first:
+      213: 5295843270344267967
+    second: Tile Outline_15
+  - first:
+      213: 2006780213594356284
+    second: Tile Outline_16
+  - first:
+      213: -3449634974400466299
+    second: Tile Outline_17
+  - first:
+      213: -3597009882694771582
+    second: Tile Outline_18
+  - first:
+      213: -334364945488814068
+    second: Tile Outline_19
+  - first:
+      213: 3655021697632701027
+    second: Tile Outline_20
+  - first:
+      213: 1419954560538390611
+    second: Tile Outline_21
+  - first:
+      213: 8477405735200191915
+    second: Tile Outline_22
+  - first:
+      213: -4051056926595587584
+    second: Tile Outline_23
+  - first:
+      213: 273440433474922588
+    second: Tile Outline_24
+  - first:
+      213: 6707308551620609765
+    second: Tile Outline_25
+  - first:
+      213: -319498000509558
+    second: Tile Outline_26
+  - first:
+      213: 5228146367800146506
+    second: Tile Outline_27
+  - first:
+      213: -1160301285763851344
+    second: Tile Outline_28
+  - first:
+      213: -3030070336636149455
+    second: Tile Outline_29
+  - first:
+      213: -797498492203476400
+    second: Tile Outline_30
+  - first:
+      213: 6728965874224805217
+    second: Tile Outline_31
+  - first:
+      213: 6233383067761980541
+    second: Tile Outline_32
+  - first:
+      213: -4879414387648237160
+    second: Tile Outline_33
+  - first:
+      213: -5611826117387467476
+    second: Tile Outline_34
+  - first:
+      213: 409456571894103601
+    second: Tile Outline_35
+  - first:
+      213: -5905441895055878335
+    second: Tile Outline_36
+  - first:
+      213: 3821951680038809332
+    second: Tile Outline_37
+  - first:
+      213: -7643919876449302726
+    second: Tile Outline_38
+  - first:
+      213: 8436728848522681211
+    second: Tile Outline_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tile Outline_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd38e7d182b689cf0800000000000000
+      internalID: -245328359653997601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Outline_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6569da5093c56980800000000000000
+      internalID: -8546209693098744469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Outline_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e323d3d753d410800000000000000
+      internalID: 1500639668136568147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Outline_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04560227b15d5f600800000000000000
+      internalID: 501541247377237312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Outline_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c10d416ee925960800000000000000
+      internalID: 7589303033101556873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile Outline_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6e60a4db2679530800000000000000
+      internalID: 3861663770623796960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a0684986463de47448c1ae8fe06d62ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

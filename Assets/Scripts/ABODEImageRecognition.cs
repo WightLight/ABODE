@@ -45,12 +45,14 @@ public class ABODEImageRecognition : MonoBehaviour
             else if (trackedImage.referenceImage.name == "Curve Tile")
             {
                 Instantiate(curveTile, trackedImage.transform);
-                //trackedImage.transform.localScale = new Vector3(0.88f, 0.88f, 0.88f);
+                trackedImage.transform.localScale = new Vector3(0.9f, 0.9f, 0.9f);
                 curveTile.GetComponent<Tile>().ShowBuildableSpaces();
             }
             else if (trackedImage.referenceImage.name == "Fork Tile")
             {
                 Instantiate(forkTile, trackedImage.transform);
+                trackedImage.transform.localScale = new Vector3(0.9f, 0.9f, 0.9f);
+                //forkTile.GetComponent<Tile>().ShowBuildableSpaces();
             }
             DebugText.SetText("Found " + trackedImage.referenceImage.name + ".");
         }
