@@ -10,9 +10,14 @@
       get { return ap; }
     }
 
+    public List<Item> Items { get; }
+
     public Player()
     {
       ap = 10;
+      Items = new List<Item> {
+        new Item("Crossbow")
+      };
     }
 
     public void ConsumeAp(int amount)
